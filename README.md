@@ -8,9 +8,10 @@ The model should include the following information for each house
 
 Views 
 
-Create three views, View 1: For realtor to enter and update house information 
-View 2: For customer to search and display search result list.
-View 3: Detail view of the house when customer clicks on a house in the result list in the view 2
+Create three views, 
+- View 1: For realtor to enter and update house information 
+- View 2: For customer to search and display search result list.
+- View 3: Detail view of the house when customer clicks on a house in the result list in the view 2
 
 Control 
 Provides control and navigation among views in response to Form buttons, pass data to and retrieve data from the Model classes. It should provide function to support the following:
