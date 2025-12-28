@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\houseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\houseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\housedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\housedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\mvcdemo\\houseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\houseview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\housemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\housemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\realtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\realtorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\mvcdemo\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\mvcdemo\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|c:\\users\\nicob\\source\\repos\\finalexam_bokhari\\mvcdemo\\mvcdemo\\realtorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7E3EB9-D564-4552-808D-7A0ED609E883}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\realtorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 409,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseView.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\HouseView.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseView.cs",
+              "RelativeToolTip": "MVCDemo\\HouseView.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\CustomerController.cs",
+              "RelativeToolTip": "MVCDemo\\CustomerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAawCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:45.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RealtorController.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\RealtorController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\RealtorController.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\RealtorController.cs",
+              "RelativeToolTip": "MVCDemo\\RealtorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:45.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\MainView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\MainView.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\MainView.cs",
+              "RelativeToolTip": "MVCDemo\\MainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\Program.cs",
+              "RelativeToolTip": "MVCDemo\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:45.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\MainView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\MainView.cs",
+              "ToolTip": "C:\\Users\\nicob\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\MainView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-28T00:15:46.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\CustomerView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\CustomerView.cs",
+              "RelativeToolTip": "MVCDemo\\CustomerView.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:46.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\MainController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\MainController.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\MainController.cs",
+              "RelativeToolTip": "MVCDemo\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:46.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RealtorView.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\RealtorView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\RealtorView.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\RealtorView.cs",
+              "RelativeToolTip": "MVCDemo\\RealtorView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:46.83Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 409,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseDatabase.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\HouseDatabase.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseDatabase.cs",
+              "RelativeToolTip": "MVCDemo\\HouseDatabase.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:46.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HouseView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\HouseView.cs",
+              "ToolTip": "C:\\Users\\nicob\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\HouseView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\HouseView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-28T00:15:46.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HouseModel.cs",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseModel.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\HouseModel.cs",
+              "ToolTip": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\HouseModel.cs",
+              "RelativeToolTip": "MVCDemo\\HouseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:15:46.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicob\\source\\repos\\FinalExam_Bokhari\\MVCDemo\\MVCDemo\\CustomerView.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\nicob\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\CustomerView.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Documents\\Repos\\CIS476\\MVC-GUI\\MVCDemo\\MVCDemo\\CustomerView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-12-28T00:15:46.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
